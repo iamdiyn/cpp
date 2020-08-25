@@ -15,10 +15,10 @@ Here is the table of conversion:
 
 # Planet 	Relative Gravity
 
-      *1 	Mercury 	 0.38
-      *2 	Venus 	 0.91
-      *3 	Mars 	    0.38
-      *4 	Jupiter 	 2.34
-      *5 	Saturn 	 1.06
-      *6 	Uranus 	 0.92
-      *7 	Neptune 	 1.19
+      *1 	Mercury 	   0.38
+      *2 	Venus 	   0.91
+      *3 	Mars 	      0.38
+      *4 	Jupiter 	   2.34
+      *5 	Saturn 	   1.06
+      *6 	Uranus 	   0.92
+      *7 	Neptune 	   1.19
