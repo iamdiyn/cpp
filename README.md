@@ -13,8 +13,7 @@ Write a space.cpp program that helps him keep track of his target weight by:
 
 Here is the table of conversion:
 
-
-# 	Planet 	Relative Gravity
+ Planet 	Relative Gravity
 
 *1 	Mercury 	 0.38
 *2 	Venus 	   0.91
