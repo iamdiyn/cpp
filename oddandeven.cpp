@@ -30,6 +30,4 @@ int main()
 	cout<<"sum:"<<add<<"\n";
 	cout<<"multi:"<<mul<<"\n";
 	
-
-
 }
